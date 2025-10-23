@@ -1,0 +1,10 @@
+# Backup files
+*.backup
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.swp
+*.swo
+*~
