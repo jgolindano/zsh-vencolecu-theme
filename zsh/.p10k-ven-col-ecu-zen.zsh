@@ -124,3 +124,7 @@ typeset -g POWERLEVEL9K_VISUAL_IDENTIFIER_EXPANSION=''
 # Git config
 typeset -g POWERLEVEL9K_VCS_MAX_SYNC_LATENCY_SECONDS=0.05
 typeset -g POWERLEVEL9K_VCS_BACKENDS=(git)
+
+# Configuración de colores de terminal (reduce fatiga visual)
+# Cambiar texto por defecto a gris claro suave
+echo -ne "\033]10;#C0C0C0\007"  # Foreground: gris claro suave
