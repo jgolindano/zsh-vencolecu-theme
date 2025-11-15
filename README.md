@@ -10,6 +10,9 @@ Un tema minimalista y elegante que celebra la hermandad entre estos tres países
 - **Powerlevel10k:** Prompt rápido y personalizable
 - **Configuración zsh:** Incluye alias y configuraciones personalizadas
 - **Colores suaves:** Diseñado para reducir fatiga visual durante largas sesiones de código
+    - 🟡 Amarillo: Riqueza y sol de nuestras tierras
+    - 🔵 Azul: Océanos y cielos que compartimos
+    - 🔴 Rojo: La sangre de nuestros libertadores
 
 ## Requisitos
 
@@ -53,17 +56,6 @@ Powerlevel10k requiere una Nerd Font para mostrar los iconos correctamente.
 ```bash
 source ~/.zshrc
 ```
-
-## 🎨 Temas disponibles
-
-### VenColEcu Zen (activo por defecto)
-Tema minimalista y zen inspirado en los colores de las banderas de Venezuela, Colombia y Ecuador:
-- 🟡 Amarillo: Riqueza y sol de nuestras tierras
-- 🔵 Azul: Océanos y cielos que compartimos
-- 🔴 Rojo: La sangre de nuestros libertadores
-
-Diseñado con colores suaves para reducir la fatiga visual.
-
 
 ## 📂 Estructura del repositorio
 
