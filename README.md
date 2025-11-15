@@ -7,7 +7,6 @@ Un tema minimalista y elegante que celebra la hermandad entre estos tres países
 ## 🎨 Características
 
 - **VenColEcu Zen:** Tema principal con colores inspirados en las banderas de Venezuela, Colombia y Ecuador
-- **Tema alternativo:** Cyvenpunk
 - **Powerlevel10k:** Prompt rápido y personalizable
 - **Configuración zsh:** Incluye alias y configuraciones personalizadas
 - **Colores suaves:** Diseñado para reducir fatiga visual durante largas sesiones de código
@@ -65,24 +64,6 @@ Tema minimalista y zen inspirado en los colores de las banderas de Venezuela, Co
 
 Diseñado con colores suaves para reducir la fatiga visual.
 
-### Cyvenpunk
-Tema alternativo inspirado en cyberpunk
-
-## 🔄 Cambiar de tema
-
-Para cambiar al tema Cyvenpunk:
-
-```bash
-ln -sf ~/.p10k-cyvenpunk.zsh ~/.p10k.zsh
-source ~/.zshrc
-```
-
-Para volver a VenColEcu Zen:
-
-```bash
-ln -sf ~/.p10k-ven-col-ecu-zen.zsh ~/.p10k.zsh
-source ~/.zshrc
-```
 
 ## 📂 Estructura del repositorio
 
@@ -131,16 +112,7 @@ Si quieres remover la configuración agregada, edita tu `~/.zshrc` y elimina tod
 ```
 hasta el final (o hasta la siguiente sección si agregaste más cosas después)
 
-## 💛💙❤️ Sobre VenColEcu
-
-Este tema es un homenaje a la hermandad entre Venezuela, Colombia y Ecuador. Nuestros países comparten historia, cultura y colores en sus banderas, representando:
-
-- **Amarillo**: La abundancia de nuestras tierras y el sol que nos ilumina
-- **Azul**: Los océanos que nos rodean y los cielos que compartimos
-- **Rojo**: La valentía y sangre de quienes lucharon por nuestra libertad
-
 ## 🙏 Créditos
 
 - [Powerlevel10k](https://github.com/romkatv/powerlevel10k) por romkatv
 - Tema VenColEcu Zen: Inspirado en la hermandad de tres naciones
-- Tema Cyvenpunk: Inspiración cyberpunk
